@@ -1,5 +1,5 @@
+import { Button } from '../../components/ui/button';
 import styles from './index.module.pcss'
-
 export const Home = () => {
   return (
     <section>
